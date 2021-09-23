@@ -46,7 +46,7 @@ The instructions on installing Python on your computer can be found here:
 
 <https://www.python.org/downloads/>
 
-Follow the appropriate links to install Python for your computer.
+Follow the appropriate links to install Python for your computer. If you're using a computer in Phelps 3525, then these computers will already have Python installed.
 
 # Create a College of Engineering Account
 
@@ -56,7 +56,7 @@ Being enrolled in a CS course at UCSB allows students to create a College of Eng
 
 This account is mainly used to access and use the on-campus Engineering computer labs (CSIL / Phelps 3525). Access to these machines are useful since all of the development tools needed are already configured and installed.
 
-We are offering in-person lab sections this quarter, so setting up your ECI account is necessary to use the workstations in Phelps 3525. **In general, it is acceptable to conduct your work on your own computer.** For information on how to remotely connect to CSIL using your ECI account, refer to <https://ucsb-cs16.github.io/topics/ssh_connect/>).
+We are offering in-person lab sections this quarter, so setting up your ECI account is necessary to use the workstations in Phelps 3525. **In general, it is acceptable to conduct your work on your own computer for this class.** For information on how to remotely connect to CSIL using your ECI account, refer to <https://ucsb-cs16.github.io/topics/ssh_connect/>).
 
 The workstations in Phelps 3525 will save your work such that when you log out and log back into your ECI account, your files will be accessible from any of the workstations. It is a good idea to create back up versions of your work in case you plan on working on your personal computer - updating versions of your work on github is a great way to do this since you can download / upload your work on your personal and Phelps computers. Instructions on creating a repository on github to store your work is at the bottom of these lab instructions.
 
@@ -64,7 +64,19 @@ The workstations in Phelps 3525 will save your work such that when you log out a
 
 It's important to be organized when working on various labs this quarter. My recommendation is to create a "cs9" folder that will contain sub folders for each lab - in this case I would recommend creating a cs9/lab00 folder on your computer where you can save your file(s) and work in this directory for Lab00. I recommend creating a new folder for each lab assignment.
 
-When creating or obtaining files to work with, you may use any editor of your choice. However, for now I will recommend IDLE since this comes with the installation of Python and the lab instructions will guide you through the process using IDLE.
+When creating or obtaining files to work with, you may use any editor of your choice. However, for now I will recommend IDLE since this comes with the installation of Python and the lab instructions will guide you through the process using IDLE (a program to create and run Python programs).
+
+On a Phelps computer, you can launch IDLE by typing `idle3` in a terminal window (a program that gives us access to the `command line` interface for the computer). You can access the terminal window by:
+
+* Finding the Applications Menu at the top left of the screen.
+* Select `System Tools` -> `Terminal`. The icon should look like this:
+
+![terminal icon](Terminal.png)
+
+* A Terminal Window should pop up
+* You can then open the IDLE program by typing `idle3`
+
+If you are using a computer in Phelps and are unfamiliar with using a Unix Operating System, feel free to ask a TA / ULA for assistance in getting started.
 
 # Create a new lab00.py file
 
@@ -185,7 +197,7 @@ For this lab, if everything is correct, you'll see a successful submission passi
 
 If the tests don't pass, you may get some error message that may or may not be obvious at this point. Don't worry - if the tests didn't pass, take a minute to think about what may have caused the error. If your tests didn't pass and you're still not sure why you're getting the error, feel free to ask your TAs or Learning Assistants.
 
-Note: If you are working on a Phelps 3525 computer, be sure to log out of the machine before you leave.
+Note: If you are working on a Phelps computer, be sure to log out of the machine before you leave.
 
 In fact, you should do this every time you walk away from a lab computer.
 
