@@ -9,8 +9,8 @@ ready: true
 # Instructor
 Richert Wang
 
-* Tuesdays 4:00pm - 4:50pm
-* Thursdays 6:30pm - 7:30pm
+* Tuesdays 4:00pm - 4:50pm (LSB 1001)
+* Thursdays 6:30pm - 7:30pm (LSB 1001)
 
 # TAs
 
