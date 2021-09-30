@@ -16,23 +16,28 @@ Richert Wang
 
 Lijuan Cheng
 
-* TBD
+* Lab Sections: 9am, 10am
+* Friday 9am - 11am (https://ucsb.zoom.us/j/86755607137)
 
 Aditya Dendukuri
 
-* TBD
+* Lab Sections: 9am, 10am
+* Friday 2pm - 4pm (https://ucsb.zoom.us/j/86755607137)
 
 Justin Hemphill
 
-* TBD
+* Lab Sections: 11am
+* Wednesday 6:30pm - 9:30pm (https://ucsb.zoom.us/j/86755607137)
 
 Isaac Mackey
 
-* TBD
+* Lab Sections: 12pm, 1pm
+* Wednesday 10am - 12pm (https://ucsb.zoom.us/j/86755607137)
 
 Christos Zhangos
 
-* TBD
+* Lab Sections: 11am
+* Tuesday 6:30pm - 9:30pm (https://ucsb.zoom.us/j/86755607137)
 
 # Learning Assistants
 
@@ -42,8 +47,12 @@ Parth Atre
 
 Charles Bao
 
-* TBD
+* Lab Sections: 12pm, 1pm
+* Thursday 12pm - 1:30pm (https://ucsb.zoom.us/j/86755607137)
+* Friday 1pm - 2pm (https://ucsb.zoom.us/j/86755607137)
 
 Manu Kondapaneni
 
-* TBD
+* Lab Sections: 1pm
+* Monday 3:30pm - 4:30pm (https://ucsb.zoom.us/j/86755607137)
+* Wednesday 3:30pm - 5:30pm (https://ucsb.zoom.us/j/86755607137)
