@@ -48,8 +48,7 @@ Parth Atre
 Charles Bao
 
 * Lab Sections: 12pm, 1pm
-* Thursday 12pm - 1:30pm (https://ucsb.zoom.us/j/86755607137)
-* Friday 1pm - 2pm (https://ucsb.zoom.us/j/86755607137)
+* Thursday 12pm - 2pm (https://ucsb.zoom.us/j/86755607137)
 
 Manu Kondapaneni
 
