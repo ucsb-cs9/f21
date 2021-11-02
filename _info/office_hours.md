@@ -43,7 +43,9 @@ Christos Zhangos
 
 Parth Atre
 
-* TBD
+* Lab Sections: 9am, 10am
+* Tuesday 11am - 12pm (https://ucsb.zoom.us/j/86755607137)
+* Friday 11am - 12pm (https://ucsb.zoom.us/j/86755607137)
 
 Charles Bao
 
@@ -55,3 +57,8 @@ Manu Kondapaneni
 * Lab Sections: 1pm
 * Monday 3:30pm - 4:30pm (https://ucsb.zoom.us/j/86755607137)
 * Wednesday 3:30pm - 5:30pm (https://ucsb.zoom.us/j/86755607137)
+
+Tom Nguyen
+
+* Lab Sections: 11am, 12pm
+* Thursday 2pm - 4pm (https://ucsb.zoom.us/j/86755607137)
