@@ -43,7 +43,9 @@ Christos Zhangos
 
 Parth Atre
 
-TBD
+* Lab Sections: 9am, 10am
+* Tuesday 11am - 12pm (https://ucsb.zoom.us/j/86755607137)
+* Friday 11am - 12pm (https://ucsb.zoom.us/j/86755607137)
 
 Charles Bao
 
