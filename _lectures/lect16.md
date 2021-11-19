@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2021-11-18 17:00:00.00-7:00
 ---
 
-Recorded Lecture: [5_20_21](https://drive.google.com/file/d/1_VPUS_1VQTIa4_0_i27l65dFo6qW4BTe/view?usp=sharing)
+Recorded Lecture: [11_18_21](https://drive.google.com/file/d/1jHXJ8up9Yn9PxxPwf4jF-isaE46OqyxP/view?usp=sharing)
 
 # Binary Trees
 
