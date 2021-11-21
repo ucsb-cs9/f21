@@ -3,7 +3,7 @@ layout: lab
 num: lab08
 ready: true
 desc: "Go Fish!"
-due: 2021-11-21 23:59:59.59-7
+assigned: 2021-11-21 23:59:59.59-7
 due: 2021-12-03 23:59:59.59-7
 ---
 
