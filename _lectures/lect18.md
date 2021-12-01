@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2021-11-30 17:00:00.00-7:00
 ---
 
-Recorded Lecture: [11_30_21](https://drive.google.com/file/d/1PxESObFUtPfaeRLoREWDRUUrtoVBmyT_/view?usp=sharing)
+Recorded Lecture: [11-30-21](https://drive.google.com/file/d/1PxESObFUtPfaeRLoREWDRUUrtoVBmyT_/view?usp=sharing)
 
 # BST Deletion
 
