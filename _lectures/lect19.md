@@ -9,7 +9,7 @@ Recorded Lecture: [12_2_21](https://drive.google.com/file/d/1sg0R9cdoi6pLcpFaQ3u
 
 ```
 ''' Final Exam Logistics
-* The final exam will be in-peron (LSB 1001), Wed 12/8 @ 7:30 - 9:30pm PST
+* The final exam will be in-person (LSB 1001), Wed 12/8 @ 7:30 - 9:30pm PST
 * Bring a writing utensil and photo ID
 	* Please write LEGIBLY (if we can't read it, we can't grade it)
 	* Preferrably ink / dark led
